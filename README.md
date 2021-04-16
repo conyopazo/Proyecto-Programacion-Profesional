@@ -1,2 +1,2 @@
-# Programaci-n-Profesional_prueba1
+# Programacion-Profesional_Sprint2
 en clases desarrollamos sfnsjf
