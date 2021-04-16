@@ -1,2 +1,2 @@
-# Programacion-Profesional_Sprint2
+# Proyecto Programacion Profesional
 en clases desarrollamos sfnsjf
